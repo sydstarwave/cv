@@ -1,0 +1,484 @@
+{
+  "basics": {
+    "name": "Sydney Panesar",
+    "label": "Software Developer",
+    "image": "",
+    "email": "sydney.panesar[atg]mx.at",
+    "phone": "+43 676 7763616",
+    "url": "https://sydney.pm",
+    "summary": "I am a seasoned Full-Stack Developer with over ten years of technical experience. I have strong knowledge of both enterprise-corporate and local-start-up working environments and am well-versed in the Agile methodology. I am a passionate technical professional who loves learning and mastering new technologies.I am a seasoned Full-Stack Developer with over ten years of technical experience. I have strong knowledge of both enterprise-corporate and local-start-up working environments and am well-versed in the Agile methodology. I am a passionate technical professional who loves learning and mastering new technologies.",
+    "location": {
+      "address": "",
+      "postalCode": "3100",
+      "city": "Sankt Pölten",
+      "countryCode": "AT",
+      "region": "Nieder Österreich"
+    },
+    "profiles": [
+      {
+        "meta": {
+          "label": "sydney.panesar",
+          "classOverride": "",
+          "resumeDisplay": true,
+          "buttonLabel": "Connect on LinkedIn"
+        },
+        "network": "LinkedIn",
+        "username": "sydney.panesar",
+        "url": "https://linkedin.com/in/sydney.panesar"
+      },
+      {
+        "meta": {
+          "label": "Neo-Desktop",
+          "classOverride": "",
+          "resumeDisplay": true,
+          "buttonLabel": "View my GitHub profile"
+        },
+        "network": "GitHub",
+        "username": "Neo-Desktop",
+        "url": "https://github.com/Neo-Desktop"
+      }
+    ]
+  },
+  "work": [
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "MediaReps",
+      "position": "Consultant",
+      "url": "https://www.mediareps.com/",
+      "startDate": "2018-04",
+      "endDate": "2018-06",
+      "summary": "",
+      "highlights": [
+        "Worked in a high-traffic, minimal OO-PHP environment",
+        "Helped transform a legacy codebase with new paradigms and object orientation",
+        "Assisted with JQuery in front-end development",
+        "Introduced code review concepts and pair/group debugging for larger issues",
+        "Assisted in every way possible to keep a four-nines SLA for customers"
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "Zego (formally PayLease)",
+      "position": "Software Engineer",
+      "url": "https://www.zego.com/",
+      "startDate": "2016-03",
+      "endDate": "2017-08",
+      "summary": "",
+      "highlights": [
+        "Worked in a PHP environment using Agile methodology for a very active PCI Level One Compliant payments platform",
+        "Worked with many components of the CodeIgniter and Laravel stacks",
+        "Assisted with JQuery in front-end development",
+        "Developed unit tests using PHP unit and prophecy, and automated front-end tests with Selenium and friends",
+        "Supported other developers in a small team and even in the larger-scoped engineering department as a whole"
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "Station Local",
+      "position": "Principal Engineer",
+      "url": "https://www.stationlocal.com/",
+      "startDate": "2014-12",
+      "endDate": "2016-01",
+      "summary": "",
+      "highlights": [
+        "Worked using PHP and MySQL with Laravel, on Google App Engine",
+        "Worked using Go Language with PostgreSQL, Redis, MongoDB, Docker, HA-Proxy, on Amazon Web Services S3, EC2, and Glacier to facilitate a blazing fast, scalable, mobile, and desktop media sharing API",
+        "Assisted with front-end development using Node.js, grunt, and Browserify. Gathered some exposure to React"
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "Intelligent Digital Security Solutions",
+      "position": "Primary Engineer",
+      "url": "https://www.intelligentdigitalsecuritysolutions.com/",
+      "startDate": "2014-02",
+      "endDate": "2015-02",
+      "summary": "Developed an application deployed in real-world environments that allows multiple logins, manages files, calendar events, and forms for everyday usage",
+      "highlights": [
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "Agency Certified Monitors",
+      "position": "Primary Engineer",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2015-04",
+      "summary": "Developed a prototype embedded real-time logging and feedback system for commercial and industrial refrigeration/freezing systems",
+      "highlights": [
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "Coleman University",
+      "position": "Institutional Research Programmer",
+      "url": "https://www.coleman.edu/",
+      "startDate": "2013-10",
+      "endDate": "2014-11",
+      "summary": "",
+      "highlights": [
+        "Worked in an IBM VSE/ESA based environment",
+        "Created programs to extract information from a proprietary student information system and reported process",
+        "Programmed in PL/I and JCL/JECL batch scripting",
+        "Used PHP and MySQL to develop a LDAP authenticated web application. Used Bootstrap to achieve responsiveness and JQuery for user interaction"
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "Coleman University",
+      "position": "Work Study - Campus Diversity Department",
+      "url": "https://www.coleman.edu/",
+      "startDate": "2012-08",
+      "endDate": "2013-10",
+      "summary": "Performed various tasks to promote and identify diversity among individuals working and studying on campus",
+      "highlights": [
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "Steele Canyon High School",
+      "position": "Theatre Show Operator",
+      "url": "https://www.schscougars.org/",
+      "startDate": "2012-08",
+      "endDate": "2011-01",
+      "summary": "",
+      "highlights": [
+        "Worked with various crew members to facilitate the production of a live theatrical event.",
+        "Set goals for others to ensure deadlines",
+        "Developed good group working skills and social ability.",
+        "Created a Windows application to play sound effects based upon keys played on a USB MIDI Keyboard.",
+        "Gained experience with sound and lighting in a live theater production environment.",
+        "Hands on training with an ETC ExpressION 72/144 control board.",
+        "Acquired knowledge of basic electrical circuitry along with proper safety and effective team building communication skills.",
+        "Worked many shows with student crews and hired professional companies"
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "San Diego, California, USA"
+      },
+      "name": "Coleman University",
+      "position": "Systems Programming Intern",
+      "url": "https://www.coleman.edu/",
+      "startDate": "2011-01",
+      "endDate": "2012-04",
+      "summary": "",
+      "highlights": [
+        "Developed, tested, and debugged online and batch programs",
+        "Used CICS for storing data in ﬂat VSAM files",
+        "Developed a PL/I skill set"
+      ]
+    },
+    {
+      "meta": {
+        "background": "",
+        "logo": "",
+        "location": "El Cajon, California, USA - Global"
+      },
+      "name": "ALPS Logistics & Consulting",
+      "position": "Founder / Lead Consultant",
+      "url": "",
+      "startDate": "2009-10",
+      "summary": "",
+      "highlights": [
+        "Managed computer repairs and support remotely",
+        "Consulted on network issues",
+        "Implemented a backup solution based around on-ground data storage, Amazon Web Services S3, and Glacier for redundant backups of mission-critical data",
+        "Created server-less, single page applications using Node.js, JQuery, Grunt, and Browserify. Responsiveness was achieved using Bootstrap",
+        "Used IBM SoftLayer’s CDN for static asset caching",
+        "Used Hurricane Electric’s DNS services for lightning fast DNS responses."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Feeding America, San Diego",
+      "position": "Canvasser",
+      "url": "https://organization.com/",
+      "startDate": "2010-06",
+      "endDate": "2010-06",
+      "summary": "Performed direct action for spreading awareness of the Feeding America organization's San Diego chapter",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coleman University",
+      "url": "https://coleman.edu/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2014-10-01",
+      "endDate": "2016-10-01"
+    },
+    {
+      "institution": "Coleman University",
+      "url": "https://coleman.edu/",
+      "area": "Computer Information Systems",
+      "studyType": "Associate",
+      "startDate": "2013-10-01",
+      "endDate": "2015-10-01"
+    },
+    {
+      "institution": "Steele Canyon High School",
+      "url": "https://schscougars.org/",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2009",
+      "endDate": "2012"
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+    {
+      "name": "CompTIA A+ Certified Computer Professional",
+      "date": "2021-11-07",
+      "issuer": "CompTIA",
+      "url": "https://verify.comptia.org/",
+      "summary": "Reference Number: DQYSWB5J1CQEKZSB"
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Associate",
+      "keywords": [
+        "GoLang",
+        "Visual C#",
+        "VSE JCL",
+        "MVS JCL",
+        "PL/I",
+        "COBOL",
+        "Perl",
+        "PHP",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Pseudo code",
+        "SQL",
+        "BASH Scripting",
+        "Windows Batch Scripting"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Associate",
+      "keywords": [
+        "Computer Repair",
+        "Network Administration",
+        "Network Design",
+        "Wireless Security"
+      ]
+    },
+    {
+      "name": "Back-end Web Development",
+      "level": "Associate",
+      "keywords": [
+        "Go",
+        "MySQL",
+        "PostgreSQL",
+        "PHP",
+        "Perl",
+        "Bash"
+      ]
+    },
+    {
+      "name": "IBM Systems Programming",
+      "level": "Associate",
+      "keywords": [
+        "PL/1",
+        "CICS",
+        "z/VSE",
+        "PL/SQL",
+        "SQL",
+        "3270",
+        "JCL",
+        "Assembly",
+        "C++",
+        "z/OS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "American English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Austrian German",
+      "fluency": "A1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Software Development",
+      "keywords": [
+        "Software",
+        "Development",
+        "Golang",
+        "SQL",
+        "C++",
+        "C",
+        "C#"
+      ]
+    },
+    {
+      "name": "Computer Networking",
+      "keywords": [
+        "Home Lab",
+        "Servers",
+        "Docker",
+        "Containers",
+        "Fibre",
+        "SAN",
+        "ZFS",
+        "Administration",
+        "Network Switches",
+        "DN42",
+        "OpenNIC"
+      ]
+    },
+    {
+      "name": "Electronics Engineering",
+      "keywords": [
+        "PCB Design",
+        "KiCAD",
+        "JLCPCB",
+        "Microcontrollers",
+        "Embedded Systems"
+      ]
+    },
+    {
+      "name": "Ham Radio",
+      "keywords": [
+        "RF Design",
+        "Call Signs",
+        "Antenna Design"
+      ]
+    },
+    {
+      "name": "Retro Computing",
+      "keywords": [
+        "Emulation",
+        "z/VSE",
+        "JCL",
+        "POWER",
+        "PL/1",
+        "COBOL",
+        "RPG",
+        "IBM",
+        "x86",
+        "PPC",
+        "IA-32"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "meta": {
+        "technologies": [],
+        "github": "https://github.com/UMSKT/UMSKT"
+      },
+      "name": "Universal MS Key Toolkit",
+      "startDate": "2023-05",
+      "description": "",
+      "highlights": [
+        "Developed a cross-platform application using CMake, CPM.CMake, C++17, OpenSSL, and CryptoPP",
+        "Worked closely with a small team to disassemble and create requirements for the application",
+        "Uses Docker and Github Actions for continuous integration",
+        "Exposure to high-level mathematics, including field theory and elliptical curve cryptography"
+      ],
+      "url": ""
+    },
+    {
+      "meta": {
+        "technologies": [],
+        "github": "https://github.com/starsiegeplayers/"
+      },
+      "name": "Starsiege Players",
+      "startDate": "2020-08",
+      "description": "",
+      "highlights": [
+        "Developed a website using Svelte",
+        "Performed disassembly on client executable to determine necessary response for client->master server traffic",
+        "Developed a primary master server and infrastructure using Golang and Docker",
+        "Utilizes budge-friendly dedicated server hardware for both website hosting and master server hosting"
+      ],
+      "url": "https://starsiegeplayers.com/"
+    },
+    {
+      "meta": {
+        "technologies": [],
+        "github": "https://github.com/AestheticTV"
+      },
+      "name": "Aesthetic TV",
+      "startDate": "2020-03",
+      "description": "",
+      "highlights": [
+        "Experimented with CasperCG for realtime, automated video switching",
+        "Curated a catalog of 80s animated television shows and commercials",
+        "Developed an Adobe Flash and actionscript skill set"
+      ],
+      "url": ""
+    },
+    {
+      "meta": {
+        "technologies": [],
+        "github": "https://github.com/Neo-Desktop/3d-pinball-space-cadet"
+      },
+      "name": "3D Pinball Space Cadet Disassembly",
+      "startDate": "2019-08",
+      "endDate": "2021-08",
+      "description": "",
+      "highlights": [
+        "First attempt at 3D-Pinball disassembly",
+        "Spawned a CMake/SDL2 fork that has widespread use",
+        "Utilized Ghidra and publicly available debugging information to provide disassembly"
+      ],
+      "url": ""
+    }
+  ]
+}

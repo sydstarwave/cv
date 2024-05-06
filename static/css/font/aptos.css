@@ -1,0 +1,154 @@
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-ExtraBold.eot');
+    src: local('Aptos ExtraBold'), local('Aptos-ExtraBold'),
+    url('/css/font/aptos/Aptos-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-ExtraBold.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-ExtraBold.woff') format('woff'),
+    url('/css/font/aptos/Aptos-ExtraBold.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-ExtraBold.svg#Aptos-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-ExtraBoldItalic.eot');
+    src: local('Aptos ExtraBold Italic'), local('Aptos-ExtraBoldItalic'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic.woff') format('woff'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic.svg#Aptos-ExtraBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-Bold.eot');
+    src: local('Aptos Bold'), local('Aptos-Bold'),
+    url('/css/font/aptos/Aptos-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-Bold.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-Bold.woff') format('woff'),
+    url('/css/font/aptos/Aptos-Bold.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-Bold.svg#Aptos-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-BlackItalic.eot');
+    src: local('Aptos Black Italic'), local('Aptos-BlackItalic'),
+    url('/css/font/aptos/Aptos-BlackItalic.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-BlackItalic.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-BlackItalic.woff') format('woff'),
+    url('/css/font/aptos/Aptos-BlackItalic.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-BlackItalic.svg#Aptos-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-Black.eot');
+    src: local('Aptos Black'), local('Aptos-Black'),
+    url('/css/font/aptos/Aptos-Black.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-Black.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-Black.woff') format('woff'),
+    url('/css/font/aptos/Aptos-Black.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-Black.svg#Aptos-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos.eot');
+    src: local('Aptos'),
+    url('/css/font/aptos/Aptos.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos.woff') format('woff'),
+    url('/css/font/aptos/Aptos.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos.svg#Aptos') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-Italic.eot');
+    src: local('Aptos Italic'), local('Aptos-Italic'),
+    url('/css/font/aptos/Aptos-Italic.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-Italic.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-Italic.woff') format('woff'),
+    url('/css/font/aptos/Aptos-Italic.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-Italic.svg#Aptos-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-ExtraBoldItalic_1.eot');
+    src: local('Aptos ExtraBold Italic'), local('Aptos-ExtraBoldItalic'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic_1.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic_1.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic_1.woff') format('woff'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic_1.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-ExtraBoldItalic_1.svg#Aptos-ExtraBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-LightItalic.eot');
+    src: local('Aptos Light Italic'), local('Aptos-LightItalic'),
+    url('/css/font/aptos/Aptos-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-LightItalic.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-LightItalic.woff') format('woff'),
+    url('/css/font/aptos/Aptos-LightItalic.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-LightItalic.svg#Aptos-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-Light.eot');
+    src: local('Aptos Light'), local('Aptos-Light'),
+    url('/css/font/aptos/Aptos-Light.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-Light.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-Light.woff') format('woff'),
+    url('/css/font/aptos/Aptos-Light.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-Light.svg#Aptos-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('/css/font/aptos/Aptos-SemiBold.eot');
+    src: local('Aptos SemiBold'), local('Aptos-SemiBold'),
+    url('/css/font/aptos/Aptos-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('/css/font/aptos/Aptos-SemiBold.woff2') format('woff2'),
+    url('/css/font/aptos/Aptos-SemiBold.woff') format('woff'),
+    url('/css/font/aptos/Aptos-SemiBold.ttf') format('truetype'),
+    url('/css/font/aptos/Aptos-SemiBold.svg#Aptos-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
