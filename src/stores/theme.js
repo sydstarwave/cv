@@ -1,29 +1,36 @@
 import { browser } from '$app/environment';
 import { writable } from 'svelte/store';
 
-const dark = 'dark';
-const light = 'light';
+export const dark = 'dark';
+export const light = 'light';
 
-const defVal = browser && window.matchMedia('(prefers-color-scheme: dark)').matches ? dark : light;
-const initVal = browser ? localStorage.theme : defVal;
+const defVal =
+	browser && !window.matchMedia('(prefers-color-scheme: light)').matches ? dark : light;
+const initVal = browser ? window.localStorage.theme : defVal;
 
-const theme = writable(initVal);
+export const theme = writable(initVal);
 
-theme.subscribe((val) => {
-    if (browser)
-    {
-        localStorage.theme = val;
-        if (val == dark)
-        {
-            document.documentElement.classList.remove(light);
-            document.documentElement.classList.add(dark);
-        }
-        else
-        {
-            document.documentElement.classList.remove(dark);
-            document.documentElement.classList.add(light);
-        }
-    }
+export function toggleTheme() {
+	theme.update((val) => (val.toString() !== light ? dark : light));
+}
+
+theme.subscribe((v) => {
+	if (!browser) {
+		return;
+	}
+
+	const documentClass = document.documentElement.classList;
+	window.localStorage.theme = v.toString() !== light ? dark : light;
+
+	// default dark mode
+	if (v.toString() !== light) {
+		documentClass.remove(light);
+		documentClass.add(dark);
+		return;
+	}
+
+	documentClass.remove(dark);
+	documentClass.add(light);
 });
 
 export default theme;

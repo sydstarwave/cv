@@ -11,10 +11,10 @@ const config = {
 			base: ''
 		},
 		alias: {
-			'$components' : 'src/components',
-			'$data': 'src/data',
-			'$stores': 'src/stores',
-			'$root': 'src/'
+			$components: 'src/components',
+			$data: 'src/data',
+			$stores: 'src/stores',
+			$root: 'src/'
 		}
 	},
 	preprocess: vitePreprocess()
