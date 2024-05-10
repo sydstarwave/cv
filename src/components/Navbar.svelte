@@ -170,37 +170,20 @@
 				data-aos="slide-right"
 				data-aos-delay="200"
 				class="block bg-gray-50 dark:bg-gray-800 p-5"
-				href="/#experience">Experience</a
+				href="/#experience"
 			>
+				Job Related Experience
+			</a>
 			<a
 				on:click={() => (open = false)}
 				data-aos="slide-left"
 				data-aos-delay="200"
 				class="block bg-gray-50 dark:bg-gray-800 p-5"
-				href="/#web-development"
+				href="/#projects"
 			>
-				Web Development
+				Projects in Practice
 			</a>
 
-			<a
-				on:click={() => (open = false)}
-				data-aos="slide-right"
-				data-aos-delay="200"
-				class="block bg-gray-50 dark:bg-gray-800 p-5"
-				href="/#game-development"
-			>
-				Game Development
-			</a>
-
-			<a
-				on:click={() => (open = false)}
-				data-aos="slide-left"
-				data-aos-delay="200"
-				class="block bg-gray-50 dark:bg-gray-800 p-5"
-				href="/#graphic-design"
-			>
-				Graphic Design
-			</a>
 			<a
 				on:click={() => (open = false)}
 				data-aos="slide-right"
@@ -218,7 +201,7 @@
 				class="block bg-gray-50 dark:bg-gray-800 p-5"
 				href="/resume"
 			>
-				Resume
+				Resume / CV
 			</a>
 		</nav>
 		<div class="text-center">

@@ -6,7 +6,7 @@ export const light = 'light';
 
 const defVal =
 	browser && !window.matchMedia('(prefers-color-scheme: light)').matches ? dark : light;
-const initVal = browser ? (window.localStorage.theme || defVal) : defVal;
+const initVal = browser ? window.localStorage.theme || defVal : defVal;
 
 export const theme = writable(initVal);
 
