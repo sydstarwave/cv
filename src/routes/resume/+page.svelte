@@ -95,8 +95,7 @@
 								{#if profile.meta.resumeDisplay}
 									<li class="basis-1/6">
 										<a class="flex gap-1.5 items-center" href={profile.url} target="_blank"
-											><FontAwesomeIcon icon={networkTypes[profile.network]} />{profile.meta
-												.label}</a
+											><FontAwesomeIcon icon={networkTypes[profile.network]} />{profile.username}</a
 										>
 									</li>
 								{/if}
