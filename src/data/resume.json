@@ -8,7 +8,7 @@
 		"email": "sydney.panesar[atg]mx.at",
 		"phone": "+43 676 7763616",
 		"url": "https://sydney.pm",
-		"summary": "I am a seasoned Full-Stack Developer with over ten years of technical experience. I have strong knowledge of both enterprise-corporate and local-start-up working environments and am well-versed in the Agile methodology. I am a passionate technical professional who loves learning and mastering new technologies.I am a seasoned Full-Stack Developer with over ten years of technical experience. I have strong knowledge of both enterprise-corporate and local-start-up working environments and am well-versed in the Agile methodology. I am a passionate technical professional who loves learning and mastering new technologies.",
+		"summary": "I am a seasoned Full-Stack Developer with over ten years of technical experience. I have strong knowledge of both enterprise-corporate and local-start-up working environments and am well-versed in the Agile methodology. I am a passionate technical professional who loves learning and mastering new technologies.",
 		"meta": {
 			"email": {
 				"link": "mailto:sydney.panear[atg]mx.at?subject=Website%2FResum%C3%A9%2FCV&body=Hi%20there%20Sydney%2C%20I%20just%20saw%20your%20site...",
@@ -25,18 +25,16 @@
 		"profiles": [
 			{
 				"meta": {
-					"label": "sydney.panesar",
 					"classOverride": "",
 					"resumeDisplay": true,
 					"buttonLabel": "Connect on LinkedIn"
 				},
 				"network": "LinkedIn",
-				"username": "sydney.panesar",
-				"url": "https://linkedin.com/in/sydney.panesar"
+				"username": "sydneypanesar",
+				"url": "https://linkedin.com/in/sydneypanesar"
 			},
 			{
 				"meta": {
-					"label": "Neo-Desktop",
 					"classOverride": "",
 					"resumeDisplay": true,
 					"buttonLabel": "View my GitHub profile"
@@ -66,7 +64,7 @@
 				"Helped transform a legacy codebase with new paradigms and object orientation",
 				"Assisted with JQuery in front-end development",
 				"Introduced code review concepts and pair/group debugging for larger issues",
-				"Assisted in every way possible to keep a four-nines SLA for customers"
+				"Assisted in every way possible to keep a \"four-nines\" SLA for customers"
 			]
 		},
 		{
@@ -522,7 +520,7 @@
 			"description": "",
 			"highlights": [
 				"Ran a node in the DN42 project.",
-				"Ensures node is always running, \"three-nines \"SLA.",
+				"Ensures node is always running, \"three-nines\" SLA.",
 				"Setup and properly filtered a BGP routing with quagga",
 				"Experience with configuring OpenVPN clients."
 			],

@@ -42,7 +42,7 @@
 	class="print:hidden flex items-center gap-4 px-6 lg:px-10 py-4 top-0 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md shadow-md fixed w-full z-50"
 >
 	<a
-		aria-label="Llogo"
+		aria-label="Logo"
 		href="/#home"
 		data-aos="flip-up"
 		data-aos-duration="700"
